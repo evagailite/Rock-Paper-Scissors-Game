@@ -13,4 +13,4 @@ Console output examples:
 <img src="images/tie.PNG">
 <img src="images/win.PNG">
 <img src="images/win2.PNG">
-<img src="images/win3.PNG">
+<img src="images/lose.PNG">
